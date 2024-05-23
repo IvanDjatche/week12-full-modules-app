@@ -1,0 +1,5 @@
+# ami = "ami-0e4fd9059cb6808a4"
+# region = "us-west-1"
+# instance_type = "t2.small"
+# name = "Dev-server"
+# Team = "Dev"
